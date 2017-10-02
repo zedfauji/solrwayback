@@ -1,5 +1,10 @@
 # SolrWayback
 
+Important:
+This is latest version to work with warc-indexer up to version 2.0.2 and it will not be maintained. 
+For warc-indexer 3.0 indexes use the master branch. 
+
+
 SolrWayback is web-application for browsing historical harvested ARC/WARC files similar
 to the Internet Archive Wayback Machine. The SolrWayback depends on a Solr server where
 Arc/Warc files have been indexed using the British Library WARC-Indexer. The Netsearch application is just a simple book keeping application on top of the WARC-Indexer that also
